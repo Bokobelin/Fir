@@ -1,0 +1,1 @@
+python fir.py test_files/fir/main.fir
